@@ -5,7 +5,7 @@
 This project uses AutoML in databricks to generate machine learning models to predict whether a candidate will have a heart disease using features such as BMI, Smoking, Stroke, Asthma, PhysicalHealth etc. 
 
 
-## MLFLOW API
+## MLflow API
 `export MLFLOW_TRACKING_URI=databricks`
 
 `export DATABRICKS_TOKEN=<token>`
@@ -15,6 +15,14 @@ see all the registed models in databricks
 
 download models from databricks
 `python model_download.py`
+
+
+## How to run the application
+Run the application using the docker I have already pushed to the Dokcerhub:
+
+`docker pull cw4441/heart_disease`
+
+`docker run -p 8080:8080 cw4441/heart_disease:latest`
 
 ## Result show
 
