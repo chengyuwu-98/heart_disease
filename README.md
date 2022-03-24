@@ -4,6 +4,10 @@
 
 This project uses AutoML in databricks to generate machine learning models to predict whether a candidate will have a heart disease using features such as BMI, Smoking, Stroke, Asthma, PhysicalHealth etc. After buliding the model, I use Databricks to serve the model out in real time and put it into production by buidling the application with Fastapi. Then I push the application as a container to Dockerhub. 
 
+## Video Demo
+https://youtu.be/D0M2KlVv1hE 
+
+
 ## Workflow
 
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/76429734/159828474-3c9757c9-6e2f-4df2-bfcb-f3d69f9cb330.png)
