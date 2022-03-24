@@ -6,7 +6,8 @@ This project uses AutoML in databricks to generate machine learning models to pr
 
 ## Workflow
 
-![Untitled Diagram drawio](https://user-images.githubusercontent.com/76429734/159823642-57c836b6-56f6-4469-9af6-efa496705638.png)
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/76429734/159828474-3c9757c9-6e2f-4df2-bfcb-f3d69f9cb330.png)
+
 
 
 ## MLflow API
