@@ -1,4 +1,4 @@
-# Heart Ddisease Prediction
+# Heart Disease Prediction
 
 ## Project description
 
